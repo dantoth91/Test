@@ -1,0 +1,3 @@
+[submodule "UAVCAN_CustomDataTypes"]
+	path = UAVCAN_CustomDataTypes
+	url = https://github.com/Autoflight/UAVCAN_CustomDataTypes.git

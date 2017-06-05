@@ -1,0 +1,28 @@
+uint8 EngineState
+uint16 ICU_last_period
+uint16 RPM
+bool FUEL_PUMP_STATE
+bool SelfStartingProcess
+
+uint16 CalcIgnTime
+uint16 CalcInjTime
+uint16 CalcTPS
+uint16 CalcAIR
+
+uint16 LookUpInjValue
+uint16 LookUpIgnDeg
+uint16 LookUpChtValue
+uint16 LookUpTpsValue
+uint16 LookUpAirValue
+uint16 ChtTemp
+
+uint16 MixtureValvePos
+uint16 ExpectedMixValvePos
+uint16 AirValvePos
+
+int32 ICUChange
+uint32 NumOfIgnCut
+uint32 IgnWdt
+uint32 InjWdt
+
+uint8 WdGptState
